@@ -1,0 +1,9 @@
+model_token = ""
+genai_model = gpt-35-turbo
+max_tokens = 1000
+temprature = 0.2
+frequency_penalty = 0
+presence_penalty = 0
+turbo_stop = "null"
+top_p = 0.1
+top_k= 10

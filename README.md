@@ -3,6 +3,6 @@ Generate Business Entity at a code level from given requirement. This repo will 
 
 Update: Working on accuracy of the whole system. 
 
-Architecture Diagram - Coming Soon
+Architecture Diagram - Checkout the file Code-Gen-Diagram.png in the root.
 
 Complete documentation- Coming Soon

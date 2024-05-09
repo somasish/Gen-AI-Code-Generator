@@ -6,3 +6,5 @@ Update: Working on accuracy of the whole system.
 Architecture Diagram - Checkout the file Code-Gen-Diagram.png in the root.
 
 Complete documentation- Coming Soon
+
+UI Interface - Coming Soon
